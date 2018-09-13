@@ -1,5 +1,5 @@
 # MacApp
-A simple hello world Mac Desktop app.
+A simple hello world Mac Desktop application
 
 
 
